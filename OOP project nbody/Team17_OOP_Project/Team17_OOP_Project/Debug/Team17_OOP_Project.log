@@ -1,0 +1,7 @@
+﻿  simul_func.cpp
+e:\dgist 수업관련\3학년 과목\객체지향 프로그래밍\프로젝트\dropbox\객체_프로젝트\team17\team17_oop_project\team17_oop_project\simul_func.cpp : fatal error C1041: 프로그램 데이터베이스 'E:\DGIST 수업관련\3학년 과목\객체지향 프로그래밍\프로젝트\Dropbox\객체_프로젝트\Team17\Team17_OOP_Project\Team17_OOP_Project\Debug\vc141.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+  main.cpp
+  force_tae2.cpp
+e:\dgist 수업관련\3학년 과목\객체지향 프로그래밍\프로젝트\dropbox\객체_프로젝트\team17\team17_oop_project\team17_oop_project\force_tae2.cpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  class_func.cpp
+  코드를 생성하고 있습니다...
